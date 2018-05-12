@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '42514'
     url: http://www.gutenberg.org/2009/agents/42514
 description: Illustrated by the editor.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43984#Chaucer-for-Children--A-Golden-Key
 gutenberg_issued: '2013-10-20'
 gutenberg_type: Text
 identifiers:
