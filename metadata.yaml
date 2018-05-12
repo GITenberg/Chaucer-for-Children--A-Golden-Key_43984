@@ -1,0 +1,38 @@
+_repo: Chaucer-for-Children--A-Golden-Key_43984
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43984-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chaucer, Geoffrey
+    alias: Chaucer, Jeffrey
+    birthdate: 1342
+    deathdate: 1400
+    gutenberg_agent_id: '144'
+    url: http://www.gutenberg.org/2009/agents/144
+    wikipedia: http://en.wikipedia.org/wiki/Geoffrey_Chaucer
+  editor:
+    agent_name: Haweis, Mary Eliza Joy
+    aliases:
+    - Haweis, Mrs. H. R.
+    - Haweis, Mrs. Hugh Reginald
+    birthdate: 1852
+    deathdate: 1898
+    gutenberg_agent_id: '42514'
+    url: http://www.gutenberg.org/2009/agents/42514
+description: Illustrated by the editor.
+gutenberg_issued: '2013-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43984'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Chaucer, Geoffrey, -1400 -- Adaptations'
+- !lcc 'PR'
+title: 'Chaucer for Children: A Golden Key'
+url: http://www.gutenberg.org/ebooks/43984
